@@ -5,6 +5,7 @@
 <style type="text/css">
 BODY {
     width: 550PX;
+    height: auto;
 }
 
 #chart-container {
