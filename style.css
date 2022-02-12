@@ -1,0 +1,47 @@
+/*Start Top Head CSS*/
+.top_head{
+	background-color: #000;
+	height: 30px;
+}
+.container {
+    width: 1350px;
+}
+.top_head a{
+	color: #fff;
+
+}
+.log{
+	float: right;
+}
+
+/*End Top Head CSS*/
+
+/*Header CSS*/
+
+.header{
+	background-color: #fff;
+	height: 100px;
+}
+.h2, h2 {
+    font-size: 30px;
+    /* padding: 22px; */
+    padding-left: 60px;
+    padding-top: 9px;
+}
+ul{
+	list-style: none;
+	display: inline-flex;
+}
+.header li{
+	padding-top: 38px;
+	padding-left: 50px;
+}
+.header li a{
+	font-size: 20px;
+}
+/*End Header CSS*/
+ 
+/*Banner CSS*/
+
+
+/*End Banner CSS*/
